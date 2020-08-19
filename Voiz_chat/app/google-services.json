@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284368862199",
+    "firebase_url": "https://sirex-android-chat.firebaseio.com",
+    "project_id": "sirex-android-chat",
+    "storage_bucket": "sirex-android-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284368862199:android:22dab3f0011bed57ce8cf2",
+        "android_client_info": {
+          "package_name": "sirex_production.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284368862199-8mhv2njbv7bb6nsp870urnsadmdkfqg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sirex_production.com",
+            "certificate_hash": "91684dfa574bf6f082012b967dd745f30c43a309"
+          }
+        },
+        {
+          "client_id": "284368862199-6vb5msj92b17brcfmho9p5a00pv7mn86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXP3avsL1JW9LHo4WXrJGlS67vNsg40A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284368862199-6vb5msj92b17brcfmho9p5a00pv7mn86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
